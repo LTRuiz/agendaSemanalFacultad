@@ -234,7 +234,7 @@ with tab_hoy:
                 "<span style='color:" + color + ";'>" + texto + "</span>)</small><br>"
             )
         st.markdown(
-            '<div style="background:#002a3d;border-left:4px solid #378ADD;border-radius:8px;padding:12px 16px;margin-top:8px;">'
+            '<div style="background:#4a1010;border-left:4px solid #ff4b4b;border-radius:8px;padding:12px 16px;margin-top:8px;">'
             '📅 Parciales próximos:<br><br>' + lines_p +
             '</div>',
             unsafe_allow_html=True
