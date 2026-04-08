@@ -1,0 +1,21 @@
+{
+  "done_blocks": {
+    "2026-04-06_4": false,
+    "2026-04-06_0": true
+  },
+  "tasks": [
+    {
+      "text": "Resolver ejercicio 3 - Caso Farmacia",
+      "subj": "asi",
+      "due": "2026-04-13",
+      "done": false
+    }
+  ],
+  "parciales_extra": [
+    {
+      "subj": "asi",
+      "nombre": "Primer parcial ASI",
+      "fecha": "2026-05-06"
+    }
+  ]
+}

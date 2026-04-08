@@ -1,0 +1,27 @@
+.block-card {
+    padding: 10px 14px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    border-left: 4px solid;
+    color: #1a1a1a !important;
+}
+.block-card * { color: #1a1a1a !important; }
+.block-time  { font-size: 11px; opacity: .65; margin-bottom: 2px; }
+.block-title { font-weight: 700; font-size: 14px; }
+.block-sub   { font-size: 12px; opacity: .75; margin-top: 2px; }
+.block-dur   { font-size: 11px; font-weight: 600; opacity: .8; float: right; }
+.class-badge {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 2px 4px 2px 0;
+    color: #1a1a1a !important;
+}
+.done-block { opacity: 0.38; text-decoration: line-through; }
+.lunch-card { opacity: 0.55; }
+.legend-dot {
+    display: inline-block; width: 11px; height: 11px;
+    border-radius: 50%; margin-right: 5px; vertical-align: middle;
+}
