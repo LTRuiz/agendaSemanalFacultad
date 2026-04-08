@@ -8,10 +8,10 @@ Aplicación web personal para organizar el estudio universitario, construida con
 
 - **Hoy** — Vista del día actual con bloques de estudio, clases universitarias, advertencias de tareas pendientes y parciales próximos
 - **Semana completa** — Vista expandible de los 6 días de estudio con progreso por día
+- **Parciales** — Seguimiento de fechas de parciales con días restantes y estado visual
 - **Mis Clases** — Horario de cursada con detalle por materia, aula y carga horaria
 - **Progreso** — Métricas semanales de horas completadas por materia
 - **Tareas** — Gestión de tareas pendientes con fecha de entrega y cuenta regresiva
-- **Parciales** — Seguimiento de fechas de parciales con días restantes y estado visual
 
 ---
 
